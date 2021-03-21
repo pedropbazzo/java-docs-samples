@@ -23,6 +23,7 @@ Technology Samples:
 * [PubSub](pubsub)
 * [Cloud Spanner](spanner)
 * [Speech](speech)
+* [Stream](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
 * [Cloud Storage](storage)
 * [Translate](translate)
 * [Vision](vision)
